@@ -1,4 +1,4 @@
-# Big Data Hadoop System: Project Overview (with Liu Chunchu and Liu Yuke)
+# Big Data Hadoop System: Project Overview (with Chunchu Liu and Yuke Liu)
 
 ## Part 1: Setting up Hadoop
 
