@@ -37,7 +37,7 @@ Our output is down below:
 ![output1.png](https://github.com/ILing82816/ds_hadoop_proj/blob/master/Figure/output1.png)
 
 ## Part 4: Developing a Hadoop program to analyze real logs 
---
+
 We use logAnalyze1.java to analyze a real anonymous logs to answer "How many hits were made to the website item “/assets/img/home-logo.png”?". 
 
 - First, we need to compile the programming. `hadoop com.sun.tools.javac.Main logAnalyze1.java` 
